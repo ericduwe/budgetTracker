@@ -58,3 +58,5 @@ const saveRecord = (record) => {
     const store = transaction.objectStore('unsavedTx');
     store.add(record);
 }
+
+window.addEventListener('online', checkDatabase)
