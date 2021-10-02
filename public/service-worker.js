@@ -3,7 +3,13 @@ const FILES_TO_CACHE = [
     '/index.html',
     '/topic.html',
     '/style.css',
+    '/index.js',
+    '/indexedDb.js',
+    '/icons/icon-192x192.png',
+    '/icons/icon-512x512.png',
+    '/manifest.webmanifest'
     
+
   ];
   
   const PRECACHE = 'precache-v1';
