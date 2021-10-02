@@ -24,7 +24,7 @@ None
 N/A
 
 ## Usage
-![Screenshot of app functioning offline](./assets/Screenshot_App_Offline.png)
+![Screenshot of app functioning offline](./assets/Screenshot_App_Offline.PNG)
 
 ## Contributions
 This project is not open to outside contributions at this time.
